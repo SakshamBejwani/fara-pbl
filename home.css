@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap');
+.custom-search-div{
+    border-radius: 10px;
+    border: 1px solid #9F4FC5;
+}
+.custom-input{
+   text-decoration: none;
+   background-color: transparent;
+    border: 0px solid;
+    height: 20px;
+    width: 160px;
+    color: #CCC;
+}
+.search-icon{
+    padding: 5px;
+    max-height: 30px;
+    max-width: 30px;
+    cursor: pointer;
+}
+.user-control{
+    padding: 5px;
+    max-height: 30px;
+    max-width: 30px;
+}
+.main-body{
+    font-family: 'Inter', sans-serif;
+}
